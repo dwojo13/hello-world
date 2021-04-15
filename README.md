@@ -1,3 +1,3 @@
 # hello-world
 This is my final project, cool beans.
-I am Daniel, I like cats.
+I am Daniel and I like cats
